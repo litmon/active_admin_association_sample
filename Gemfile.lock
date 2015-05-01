@@ -68,6 +68,8 @@ GEM
       execjs
     coffee-script-source (1.9.1.1)
     columnize (0.9.0)
+    configurable_engine (0.4.8)
+      rails (> 3.1.0)
     debug_inspector (0.0.2)
     erubis (2.7.0)
     execjs (2.5.2)
@@ -189,6 +191,7 @@ DEPENDENCIES
   activeadmin
   byebug
   coffee-rails (~> 4.1.0)
+  configurable_engine
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.2.1)
